@@ -6,6 +6,7 @@ repositorio de prueba para comandos de git
 * Franco **Bertinetti**
 
 ## Contenido/descripcion
+Esto es una prueba del README
 
 | Email | Autores |
 |-------|---------|
